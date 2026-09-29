@@ -122,3 +122,10 @@ Contoh:
 ```
 
 Komentar dapat digunakan untuk menjelaskan bagian kode atau memberikan catatan kepada orang yang sedang mengembangkan website.
+
+
+## Hasil Coding
+
+Berikut adalah screenshot hasil coding HTML yang telah dibuat.
+
+![Hasil Coding HTML](hasil-coding.png)
